@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently enrolled In ALX-Africa Software engineering Program <br>🌱 I’m currently learning C, C++, Python<br>
+🔭 I’m currently enrolled In ALX-Africa Software engineering Program <br>🌱 I’m currently learning Python, C, SQL, Javascript<br>
 
 
 ## 🌐 Socials:
